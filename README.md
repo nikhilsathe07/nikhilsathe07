@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NIkhil</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Proficient in React, Node.js, Express & MongoDB | Passionate About Building Scalable Web Apps</h3>
 
 - 👨‍💻 All of my projects are available at [https://nikhil-portfolio-demo1.netlify.app/](https://nikhil-portfolio-demo1.netlify.app/)
