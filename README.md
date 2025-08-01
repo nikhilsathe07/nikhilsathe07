@@ -1,20 +1,74 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Aspiring MERN Stack Developer | Proficient in React, Node.js, Express & MongoDB | Passionate About Building Scalable Web Apps</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Sathe!;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Let%E2%80%99s+build+something+great+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-- 👨‍💻 All of my projects are available at [https://nikhil-portfolio-demo1.netlify.app/](https://nikhil-portfolio-demo1.netlify.app/)
-
-- 💬 Ask me about **React,Node,Express,MongoDB**
-
-- 📫 How to reach me **nikhilsathe270@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15eF8mz-Rvbv3n_4T7h68-RRCKtxSOIdH/view](https://drive.google.com/file/d/15eF8mz-Rvbv3n_4T7h68-RRCKtxSOIdH/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/nikhilsathe07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nikhilsathe07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-s-sathe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-s-sathe/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" />
+  <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
+  <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=000000" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m an **Aspiring MERN Stack Developer**  
+- 🚀 Passionate about building **scalable & efficient web apps**
+- 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Express`, `JavaScript`
+- 🌐 Portfolio: [**nikhil-portfolio-demo1.netlify.app**](https://nikhil-portfolio-demo1.netlify.app/)
+- 📫 Reach me: **nikhilsathe270@gmail.com**
+- 📄 [**My Resume**](https://drive.google.com/file/d/15eF8mz-Rvbv3n_4T7h68-RRCKtxSOIdH/view)
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://x.com/nikhilsathe07" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-s-sathe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚒️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsathe07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsathe07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsathe07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> 🚴 I love biking and exploring new tech like serverless and Next.js
+
+---
 
