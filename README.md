@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Sathe!;Full+Stack+Web+Developer;MERN+Stack+Specialist;Let's+Build+Something+Great+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+# Nikhil Sathe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" />
@@ -13,13 +11,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Aspiring **Full Stack Web Developer** with expertise in the **MERN Stack**
-- 💡 Passionate about building **scalable**, **user-focused** web applications
-- ⚙️ Proficient in `React`, `Node.js`, `MongoDB`, `Express`, `JavaScript`, and modern development tools
-- 🚀 Enthusiastic about exploring new technologies like **Generative AI**, **Next.js**, and **Firebase**
+- 🎓 Aspiring **Full Stack Web Developer** with expertise in the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 💡 Passionate about building **scalable**, **user-focused** web applications that solve real-world problems
+- ⚙️ Proficient in `React`, `Node.js`, `MongoDB`, `Express`, `JavaScript`, `TypeScript`, and modern tools like Tailwind CSS and Firebase
+- 🚀 Enthusiastic about exploring cutting-edge technologies such as **Generative AI**, **Next.js**, **Serverless Architecture**, and cloud services
 - 🌐 Portfolio: [nikhil-portfolio-demo1.netlify.app](https://nikhil-portfolio-demo1.netlify.app/)
 - 📄 [View My Resume](https://drive.google.com/file/d/15eF8mz-Rvbv3n_4T7h68-RRCKtxSOIdH/view)
 - 📫 Email: **nikhilsathe270@gmail.com**
+- 📍 Location: Based in India, open to remote opportunities worldwide
 
 ---
 
@@ -32,11 +31,29 @@
   <a href="https://www.linkedin.com/in/nikhil-s-sathe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/nikhilsathe07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js
+- Styling: Tailwind CSS, Bootstrap
+
+### Backend
+- Node.js, Express.js
+- Databases: MongoDB, Firebase (Firestore & Realtime Database)
+
+### Other Tools
+- Version Control: Git & GitHub
+- Deployment: Netlify, Vercel, Heroku
+- APIs: RESTful, GraphQL (basics)
+- Additional: C Programming, Basic AI/ML concepts
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" />
@@ -50,7 +67,26 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C Language" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" />
 </p>
+
+---
+
+## 💼 Featured Projects
+
+- **Project 1: Portfolio Website**  
+  A responsive personal portfolio built with React and Tailwind CSS, showcasing my skills and projects.  
+  [Live Demo](https://nikhil-portfolio-demo1.netlify.app/) | [GitHub Repo](https://github.com/nikhilsathe07/portfolio)
+
+- **Project 2: MERN E-commerce App**  
+  Full-stack application with user authentication, product catalog, and payment integration using Stripe.  
+  [GitHub Repo](https://github.com/nikhilsathe07/mern-ecommerce) (Replace with actual link if available)
+
+- **Project 3: AI Chatbot Prototype**  
+  Experimenting with Generative AI using OpenAI APIs integrated into a Node.js backend.  
+  [GitHub Repo](https://github.com/nikhilsathe07/ai-chatbot) (Replace with actual link if available)
+
+*(Feel free to add more projects with descriptions, tech used, and links for a more impactful showcase.)*
 
 ---
 
@@ -72,7 +108,6 @@
 
 ## ⚡ Fun Fact
 
-> 🧠 I enjoy learning about serverless architecture, experimenting with AI tools, and biking to recharge!
+> 🧠 I enjoy diving into serverless architecture, tinkering with AI tools to automate tasks, and hitting the road on my bike to clear my mind and spark new ideas!
 
 ---
-
