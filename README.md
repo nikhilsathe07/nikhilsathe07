@@ -15,7 +15,7 @@
 - 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Express`, `JavaScript`
 - 🌐 Portfolio: [**nikhil-portfolio-demo1.netlify.app**](https://nikhil-portfolio-demo1.netlify.app/)
 - 📫 Reach me: **nikhilsathe270@gmail.com**
-- 📄 [**My Resume**](https://drive.google.com/file/d/15eF8mz-Rvbv3n_4T7h68-RRCKtxSOIdH/view)
+- 📄 [**My Resume**](https://drive.google.com/file/d/1rabBS9lmVU9qPfVXIMRj5epKb3yU8F1R/view?usp=sharing)
 
 ---
 
